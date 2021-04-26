@@ -76,7 +76,7 @@ function Home() {
                     </span>
                                         </h1>
                                         <p className="w-100 header-small-text text-center px-5 pt-2">
-                                            ReactMania is a pool of small to big web projects using
+                                            ReactWorld is a pool of small to big web projects using
                     ReactJs framework{" "}
                                         </p>
                                     </div>

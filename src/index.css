@@ -63,8 +63,8 @@ code {
   height: 100%;
   width: auto;
   background-color: transparent !important;
-  transform: scale(3);
-  padding-left: 10px;
+  /* transform: scale(3); */
+  /* padding-left: 10px; */
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
@@ -86,7 +86,7 @@ code {
   }
 
   #logo {
-    transform: scale(2.5);
+    /* transform: scale(2.5); */
     padding-left: 10px;
   }
 }
@@ -520,7 +520,7 @@ code {
   height: 50px;
   width: auto;
   background-color: transparent !important;
-  transform: scale(3);
+  /* transform: scale(3); */
 }
 
 .footer-foot-div {

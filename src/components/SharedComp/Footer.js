@@ -27,7 +27,7 @@ function Footer() {
                 </div>
             </div>
             <div className='footer-foot-div py-3'>
-                <h5 className='footer-text m-0'>© 2020 Copyright - Pintu Jat</h5>
+                <h5 className='footer-text m-0'>© 2021 Copyright - Pintu Jat</h5>
             </div>
         </footer>
     )
